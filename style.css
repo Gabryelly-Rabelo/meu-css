@@ -1,0 +1,65 @@
+.header{
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    font-size: 14px;
+    padding: 20px;
+    text-align: center;
+}
+.img1{
+   display: inline-block;
+   width: 40%;
+   height: 300px;
+  
+}
+.img1 img{
+    width: 100%;
+    
+}
+.Introdução{
+    width: 56%;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+ }
+ .card{
+    display: inline-block;
+    background-color: rgb(182, 180, 180);
+    width: 30%;
+    height: 250px;
+    border-color: gainsboro;
+    border-radius: 10px;
+    vertical-align: top;
+    margin-bottom: 30px;
+    margin-left: 10px;
+ }
+ .list-card h1{
+    text-align: center;
+    font-size: 18px;
+ }
+ .img2 {
+    height:auto;
+    width: 800px;
+    display: block;
+    margin: 10px auto;
+ }
+ 
+ .img2 img{
+    width: 100%;
+ }
+
+ .text1 h1{
+    text-align: center;
+ }
+ .text1 p{
+    text-align: center;
+ }
+ 
+ .foo{
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    font-size: 14px;
+    padding: 20px;
+    text-align: center;
+ }
